@@ -2000,6 +2000,10 @@ input, select, textarea {
 				font-size: 1em;
 			}
 
+				.item a {
+					color: rgb(19, 188, 255);
+				}
+
 /* Icons */
 
 	.icon {
