@@ -1983,11 +1983,17 @@ input, select, textarea {
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
 		margin-bottom: 40px;
+		
 	}
 		.item p {
 			line-height: 1.25em;
-			padding: 0 15px;
+			padding: 0 15px;			
 		}
+		
+		.item .description{
+			text-align: left;
+		}
+		
 
 		.item header {
 			background: rgb(77, 75, 75);
